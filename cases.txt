@@ -1,0 +1,60 @@
+==============================================================
+test case 1:
+# Vehicle capacity
+Vehicle: 100.0
+Vehicle: 100.0
+
+
+# Package x y weight priority
+Package: 20 20 30 1
+Package: 30 30 40 2
+Package: 40 40 50 1
+Package: 50 50 60 2
+======================================================================
+test case 2:
+# Vehicle capacity
+Vehicle: 100.0
+
+# Package x y weight priority
+Package: 50 20 50 1
+Package: 30 40 50 2
+Package: 40 60 50 3
+=====================================================================
+test case 3:
+# Vehicle capacity
+Vehicle: 100.0
+Vehicle: 100.0
+
+# Package x y weight priority
+Package: 50 20 20 1
+Package: 30 40 20 2
+Package: 40 60 20 3
+Package: 10 80 20 3
+Package: 20 90 50 3
+Package: 60 40 50 3
+======================================================================
+test case 4:
+# Vehicle capacity
+Vehicle: 100.0
+Vehicle: 100.0
+
+# Package x y weight priority
+Package: 50 20 150 1
+====================================================================
+test case 5:
+# Vehicle capacity
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+
+# Package x y weight priority
+Package: 50 20 20 1
+Package: 30 40 20 2
+Package: 40 60 10 3
+Package: 10 80 40 4
+Package: 20 90 60 5
+Package: 80 10 20 1
+Package: 30 80 40 2
+Package: 30 60 50 3
+Package: 100 10 15 4
+Package: 90 20 15 5

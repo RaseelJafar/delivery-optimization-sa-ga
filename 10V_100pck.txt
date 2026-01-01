@@ -1,0 +1,114 @@
+# Vehicle capacity
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+Vehicle: 100.0
+
+# Package x y weight priority
+Package: 50 20 10 1
+Package: 30 40 10 2
+Package: 40 60 10 3
+Package: 10 80 10 4
+Package: 20 90 10 5
+Package: 80 10 10 1
+Package: 30 80 10 2
+Package: 30 60 10 3
+Package: 100 10 10 4
+Package: 90 20 10 5
+Package: 60 80 10 2
+Package: 25 55 10 4
+Package: 85 35 10 1
+Package: 45 50 10 3
+Package: 10 40 10 5
+Package: 20 70 10 2
+Package: 75 30 10 4
+Package: 65 90 10 3
+Package: 40 50 10 1
+Package: 55 60 10 2
+Package: 95 50 10 5
+Package: 30 20 10 4
+Package: 60 10 10 3
+Package: 80 40 10 2
+Package: 25 25 10 1
+Package: 70 70 10 4
+Package: 50 70 10 3
+Package: 40 40 10 5
+Package: 90 70 10 2
+Package: 100 30 10 3
+Package: 85 15 10 1
+Package: 20 10 10 5
+Package: 30 80 10 4
+Package: 70 10 10 2
+Package: 10 50 10 3
+Package: 60 60 10 1
+Package: 45 70 10 3
+Package: 100 50 10 2
+Package: 55 80 10 5
+Package: 30 60 10 2
+Package: 90 50 10 4
+Package: 20 20 10 3
+Package: 80 70 10 1
+Package: 25 35 10 5
+Package: 50 40 10 2
+Package: 75 60 10 4
+Package: 65 30 10 3
+Package: 40 80 10 5
+Package: 100 60 10 2
+Package: 10 30 10 4
+Package: 90 60 10 1
+Package: 60 50 10 3
+Package: 70 80 10 2
+Package: 25 60 10 5
+Package: 45 10 10 3
+Package: 75 10 10 1
+Package: 85 60 10 4
+Package: 60 80 10 2
+Package: 35 25 10 1
+Package: 80 20 10 5
+Package: 95 70 10 3
+Package: 50 50 10 4
+Package: 30 70 10 2
+Package: 70 40 10 3
+Package: 25 50 10 4
+Package: 55 20 10 2
+Package: 10 10 15 1
+Package: 85 80 5 3
+Package: 65 60 5 4
+Package: 45 30 15 2
+Package: 100 80 10 1
+Package: 75 50 15 3
+Package: 95 30 5 4
+Package: 40 30 10 5
+Package: 20 80 5 2
+Package: 60 20 15 3
+Package: 25 30 10 4
+Package: 50 30 15 1
+Package: 100 20 5 5
+Package: 35 40 10 2
+Package: 70 50 15 4
+Package: 80 30 5 1
+Package: 25 80 5 5
+Package: 40 60 15 3
+Package: 55 40 10 2
+Package: 90 30 10 4
+Package: 10 60 15 3
+Package: 95 40 5 2
+Package: 20 30 10 5
+Package: 60 70 5 1
+Package: 75 20 15 2
+Package: 85 10 10 3
+Package: 65 70 10 4
+Package: 45 60 5 1
+Package: 55 10 10 2
+Package: 80 50 15 4
+Package: 90 40 10 5
+Package: 100 10 10 2
+Package: 35 60 10 3
+Package: 70 20 10 4
+

@@ -1,0 +1,12 @@
+# Vehicle capacity
+Vehicle: 80.0
+Vehicle: 100.0
+
+# Package x y weight priority
+Package: 50 20 20 1
+Package: 30 40 30 1
+Package: 40 60 40 1
+Package: 10 80 80 1
+
+
+
